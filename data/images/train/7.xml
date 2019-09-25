@@ -1,7 +1,7 @@
 <annotation verified="yes">
-	<folder>Label_characterNumber_plate</folder>
+	<folder>train</folder>
 	<filename>7.png</filename>
-	<path>/home/amaad/Work/Label_characterNumber_plate/7.png</path>
+	<path>/home/amaad/Work/License_plate_detectionAndOCR-/data/images/train/7.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>59</xmin>
-			<ymin>5</ymin>
-			<xmax>95</xmax>
-			<ymax>32</ymax>
+			<xmin>60</xmin>
+			<ymin>4</ymin>
+			<xmax>96</xmax>
+			<ymax>31</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>98</xmin>
-			<ymin>3</ymin>
-			<xmax>133</xmax>
-			<ymax>30</ymax>
+			<xmin>99</xmin>
+			<ymin>5</ymin>
+			<xmax>134</xmax>
+			<ymax>32</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -42,9 +42,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>139</xmin>
-			<ymin>22</ymin>
-			<xmax>178</xmax>
-			<ymax>66</ymax>
+			<ymin>31</ymin>
+			<xmax>179</xmax>
+			<ymax>72</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,20 +53,20 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>101</xmin>
-			<ymin>30</ymin>
-			<xmax>138</xmax>
-			<ymax>67</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>5</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>63</xmin>
+			<xmin>100</xmin>
 			<ymin>32</ymin>
+			<xmax>138</xmax>
+			<ymax>71</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>5</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>60</xmin>
+			<ymin>31</ymin>
 			<xmax>97</xmax>
 			<ymax>70</ymax>
 		</bndbox>
@@ -77,10 +77,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>22</xmin>
-			<ymin>35</ymin>
+			<xmin>19</xmin>
+			<ymin>29</ymin>
 			<xmax>57</xmax>
-			<ymax>73</ymax>
+			<ymax>69</ymax>
 		</bndbox>
 	</object>
 </annotation>

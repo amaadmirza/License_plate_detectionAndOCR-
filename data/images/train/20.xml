@@ -1,7 +1,7 @@
 <annotation verified="yes">
-	<folder>Label_characterNumber_plate</folder>
+	<folder>train</folder>
 	<filename>20.png</filename>
-	<path>/home/amaad/Work/Label_characterNumber_plate/20.png</path>
+	<path>/home/amaad/Work/License_plate_detectionAndOCR-/data/images/train/20.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -18,9 +18,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>50</xmin>
-			<ymin>27</ymin>
-			<xmax>71</xmax>
-			<ymax>78</ymax>
+			<ymin>23</ymin>
+			<xmax>73</xmax>
+			<ymax>76</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>70</xmin>
-			<ymin>23</ymin>
-			<xmax>92</xmax>
-			<ymax>79</ymax>
+			<xmin>71</xmin>
+			<ymin>21</ymin>
+			<xmax>93</xmax>
+			<ymax>76</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>90</xmin>
-			<ymin>21</ymin>
-			<xmax>114</xmax>
-			<ymax>76</ymax>
+			<xmin>91</xmin>
+			<ymin>22</ymin>
+			<xmax>115</xmax>
+			<ymax>77</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -54,9 +54,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>118</xmin>
-			<ymin>19</ymin>
-			<xmax>139</xmax>
-			<ymax>72</ymax>
+			<ymin>22</ymin>
+			<xmax>140</xmax>
+			<ymax>76</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>139</xmin>
-			<ymin>17</ymin>
-			<xmax>160</xmax>
-			<ymax>73</ymax>
+			<xmin>138</xmin>
+			<ymin>23</ymin>
+			<xmax>162</xmax>
+			<ymax>77</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,10 +77,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>160</xmin>
-			<ymin>17</ymin>
-			<xmax>183</xmax>
-			<ymax>71</ymax>
+			<xmin>159</xmin>
+			<ymin>24</ymin>
+			<xmax>182</xmax>
+			<ymax>78</ymax>
 		</bndbox>
 	</object>
 </annotation>

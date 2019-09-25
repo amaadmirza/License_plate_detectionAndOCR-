@@ -1,7 +1,7 @@
 <annotation verified="yes">
-	<folder>Label_characterNumber_plate</folder>
+	<folder>train</folder>
 	<filename>23.png</filename>
-	<path>/home/amaad/Work/Label_characterNumber_plate/23.png</path>
+	<path>/home/amaad/Work/License_plate_detectionAndOCR-/data/images/train/23.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>73</xmin>
-			<ymin>18</ymin>
-			<xmax>101</xmax>
-			<ymax>59</ymax>
+			<xmin>74</xmin>
+			<ymin>17</ymin>
+			<xmax>102</xmax>
+			<ymax>58</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,9 +29,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>103</xmin>
+			<xmin>104</xmin>
 			<ymin>17</ymin>
-			<xmax>129</xmax>
+			<xmax>130</xmax>
 			<ymax>57</ymax>
 		</bndbox>
 	</object>
@@ -42,9 +42,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>130</xmin>
-			<ymin>14</ymin>
+			<ymin>16</ymin>
 			<xmax>157</xmax>
-			<ymax>56</ymax>
+			<ymax>58</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>69</xmin>
-			<ymin>67</ymin>
-			<xmax>94</xmax>
-			<ymax>105</ymax>
+			<xmin>70</xmin>
+			<ymin>64</ymin>
+			<xmax>95</xmax>
+			<ymax>102</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>96</xmin>
-			<ymin>64</ymin>
-			<xmax>119</xmax>
-			<ymax>104</ymax>
+			<xmin>95</xmin>
+			<ymin>63</ymin>
+			<xmax>120</xmax>
+			<ymax>103</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,10 +77,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>122</xmin>
-			<ymin>62</ymin>
-			<xmax>145</xmax>
-			<ymax>100</ymax>
+			<xmin>123</xmin>
+			<ymin>66</ymin>
+			<xmax>146</xmax>
+			<ymax>104</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -89,10 +89,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>147</xmin>
-			<ymin>60</ymin>
-			<xmax>172</xmax>
-			<ymax>98</ymax>
+			<xmin>146</xmin>
+			<ymin>65</ymin>
+			<xmax>171</xmax>
+			<ymax>103</ymax>
 		</bndbox>
 	</object>
 </annotation>
