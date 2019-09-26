@@ -1,86 +1,74 @@
 <annotation verified="yes">
 	<folder>train</folder>
-	<filename>9.png</filename>
-	<path>/home/amaad/Work/License_plate_detectionAndOCR-/data/images/train/9.png</path>
+	<filename>29.png</filename>
+	<path>/home/amaad/Work/License_plate_detectionAndOCR-/data/images/train/29.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>197</width>
-		<height>112</height>
+		<width>255</width>
+		<height>129</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>L</name>
+		<name>I</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>68</xmin>
-			<ymin>22</ymin>
-			<xmax>92</xmax>
-			<ymax>57</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>E</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>93</xmin>
-			<ymin>24</ymin>
-			<xmax>114</xmax>
-			<ymax>57</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>E</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>115</xmin>
+			<xmin>72</xmin>
 			<ymin>25</ymin>
-			<xmax>136</xmax>
-			<ymax>58</ymax>
+			<xmax>97</xmax>
+			<ymax>88</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>8</name>
+		<name>D</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>65</xmin>
-			<ymin>63</ymin>
-			<xmax>84</xmax>
-			<ymax>93</ymax>
+			<xmin>94</xmin>
+			<ymin>24</ymin>
+			<xmax>120</xmax>
+			<ymax>87</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>8</name>
+		<name>H</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>86</xmin>
-			<ymin>63</ymin>
-			<xmax>105</xmax>
-			<ymax>93</ymax>
+			<xmin>119</xmin>
+			<ymin>25</ymin>
+			<xmax>148</xmax>
+			<ymax>90</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>0</name>
+		<name>6</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>106</xmin>
-			<ymin>65</ymin>
-			<xmax>126</xmax>
-			<ymax>94</ymax>
+			<xmin>154</xmin>
+			<ymin>27</ymin>
+			<xmax>182</xmax>
+			<ymax>89</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>4</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>180</xmin>
+			<ymin>27</ymin>
+			<xmax>203</xmax>
+			<ymax>91</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -89,10 +77,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>127</xmin>
-			<ymin>64</ymin>
-			<xmax>147</xmax>
-			<ymax>96</ymax>
+			<xmin>201</xmin>
+			<ymin>27</ymin>
+			<xmax>227</xmax>
+			<ymax>91</ymax>
 		</bndbox>
 	</object>
 </annotation>
